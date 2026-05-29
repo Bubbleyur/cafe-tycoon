@@ -6,7 +6,7 @@ public class Customer {
     private int porsiTersisa;
 
     private static final String[] DAFTAR_MENU = {
-        "Espresso", "Latte", "Caramel Latte", "Mochaccino"
+        "Espresso", "Latte", "Caramel Latte", "Mochaccino", "Boba Coffee Latte", "Con Panna"
     };
 
     public Customer() {
